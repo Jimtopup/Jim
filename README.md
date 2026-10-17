@@ -1,0 +1,2 @@
+# Jim
+cd ~/storage/downloads
